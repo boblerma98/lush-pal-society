@@ -1,0 +1,23 @@
+# ninja log v5
+45	5822	7778002430801645	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b705b0ce8a29238b
+70	5899	7778002432093171	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a8ae3f42ed56fa1b
+109	5817	7778002431028456	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6d20a6cccb93af39
+129	6309	7778002436226386	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f8f560acfe543706
+57	5788	7778002430937808	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1a340822a0e85062
+82	6194	7778002435077507	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2aa1be25cf2420f2
+95	5819	7778002430801645	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e58c5776ffc0a209
+28	6376	7778002436890566	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	faa2b58e6c7b564f
+5789	6229	7778002435499368	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ae3da81d26fe6aba
+6376	6531	7778002438422913	C:/Users/15093/Downloads/Lush-Pal-society_BurstDebugInformation_DoNotShip/Lush-Pal Society/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5e646d2i/obj/arm64-v8a/libgame.so	6ba9cb9b385d7e08
+6229	6469	7778002437881129	C:/Users/15093/Downloads/Lush-Pal-society_BurstDebugInformation_DoNotShip/Lush-Pal Society/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5e646d2i/obj/arm64-v8a/libswappywrapper.so	4f467f0e71751468
+66	9916	7778367934523751	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1a340822a0e85062
+102	9944	7778367934437915	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e58c5776ffc0a209
+75	9947	7778367934417652	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b705b0ce8a29238b
+111	9969	7778367934857474	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6d20a6cccb93af39
+83	10005	7778367935089700	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a8ae3f42ed56fa1b
+121	10258	7778367938007992	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2aa1be25cf2420f2
+9916	10357	7778367939032031	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ae3da81d26fe6aba
+93	10403	7778367939490544	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f8f560acfe543706
+47	10458	7778367940011108	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	faa2b58e6c7b564f
+10357	10784	7778367943287462	C:/Users/15093/Downloads/Lush-Pal-society_BurstDebugInformation_DoNotShip/Lush-Pal Society/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5e646d2i/obj/arm64-v8a/libswappywrapper.so	4f467f0e71751468
+10458	10792	7778367943332601	C:/Users/15093/Downloads/Lush-Pal-society_BurstDebugInformation_DoNotShip/Lush-Pal Society/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5e646d2i/obj/arm64-v8a/libgame.so	6ba9cb9b385d7e08
